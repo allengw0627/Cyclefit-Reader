@@ -1,0 +1,19 @@
+{
+  "name": "cyclefit_reader",
+  "version": "1.0.0",
+  "description": "Cyclefit reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwayne0483/Cyclefit-Reader.git"
+  },
+  "author": "Greg Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwayne0483/Cyclefit-Reader/issues"
+  },
+  "homepage": "https://github.com/gwayne0483/Cyclefit-Reader#readme"
+}
